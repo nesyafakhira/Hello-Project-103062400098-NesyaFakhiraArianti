@@ -1,4 +1,4 @@
-package main
+package main //perubahannya ada disiniiiiii yaaaaaa !!!!!!!!!!!
 
 import (
 	"fmt" // Mengimpor package fmt untuk input-output
